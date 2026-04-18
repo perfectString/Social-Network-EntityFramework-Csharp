@@ -1,8 +1,4 @@
-# Short project description
-The goal was to design the data layer for a social network, populate it with initial and imported data, 
-and then produce formatted exports from the database. The main focus was on correct EF Core modeling, validation, duplicate detection, and serialization formatting.
 
----
 # Full desciption of the project
 
 ### Social Network Database Application
